@@ -1,10 +1,9 @@
-
 import java.util.InputMismatchException;
-
 import java.util.Scanner;
 
 public class LCM_project { public static void main(String[] args) {
     char checker = 'y';
+    String seha = ("of");
     Scanner sc = new Scanner(System.in);
     try{
         do {
